@@ -1,2 +1,7 @@
 Just another file...
 To check how push works.
+
+Now I have added this addtional line, just to be able
+to check how push works after I have stated that
+there is an upstream site associated with this git
+repository.
